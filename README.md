@@ -1,2 +1,2 @@
 # test_1
-this is a description.
+this is a test repository of VirtualDeity's vido.
